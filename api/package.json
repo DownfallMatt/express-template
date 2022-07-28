@@ -13,7 +13,7 @@
     "morgan": "^1.10.0",
     "mysql2": "^2.3.3",
     "nodemon": "^2.0.19",
-    "winston": "^3.7.2"
+    "winston": "^3.8.1"
   },
   "devDependencies": {
     "@types/compression": "^1.7.2",

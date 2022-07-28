@@ -5,4 +5,4 @@ router.get('/', (req, res) => {
     
 })
 
-export { router }
+export = router

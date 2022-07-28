@@ -2,7 +2,7 @@ import express from 'express'
 const router = express.Router()
 
 router.get('/', (req, res) => {
-    return console.log('hi')
+    return res.send({msg: "Hello"})
 })
 
-export default router
+export = router

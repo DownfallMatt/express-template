@@ -3,6 +3,6 @@ const router = express.Router()
 
 import socket from './socket/socket'
 
-router.get('/socket', socket)
+router.use('/socket', socket)
 
-export default router
+export = router
